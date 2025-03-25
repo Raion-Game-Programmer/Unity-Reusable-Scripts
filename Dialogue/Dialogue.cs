@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 using UnityEngine.UI;
-public class UIDialog : UIBase
+public class Dialogue: UIBase
 {
     [SerializeField] Button nextButton;
     private void Update() {
